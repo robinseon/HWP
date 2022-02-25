@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="..\handin3\handin3\led_driver.c">
+      <Filter>led</Filter>
+    </ClCompile>
+    <ClCompile Include="..\handin3\handin3\key\key_driver.c">
+      <Filter>key</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="led">
+      <UniqueIdentifier>{cabd9d6b-39c3-46e0-b958-f8eeedb9b015}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="key">
+      <UniqueIdentifier>{d7242724-1561-4fdc-a8a2-4a77d0a7f18a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\handin3\handin3\led_driver.h">
+      <Filter>led</Filter>
+    </ClInclude>
+    <ClInclude Include="..\handin3\handin3\key\key_driver.h">
+      <Filter>key</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
