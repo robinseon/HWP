@@ -1,0 +1,8 @@
+﻿  key_driver.c
+  led_driver.c
+D:\Documents\DUETI\Ecole\HWD1_Hardware_Programming\Assignment1\Part3\handin3\handin3\led_driver.c(17,29): warning C4554: '<<' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+D:\Documents\DUETI\Ecole\HWD1_Hardware_Programming\Assignment1\Part3\handin3\handin3\led_driver.c(20,27): warning C4554: '<<' : vérifiez si la priorité des opérateurs n'est pas une cause possible d'erreur ; utilisez des parenthèses pour rendre les priorités plus claires
+  fake_avr_sfr.c
+  Génération de code en cours...
+  test.cpp
+  handin3_test.vcxproj -> D:\Documents\DUETI\Ecole\HWD1_Hardware_Programming\Assignment1\Part3\handin3_test\Debug\handin3_test.exe
